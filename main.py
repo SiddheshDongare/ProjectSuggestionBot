@@ -2,7 +2,7 @@ import praw
 import re
 
 reddit = praw.Reddit('bot1')
-subreddits_list = ['MyTestSub1']
+subreddits_list = ['learnpython']
 post_ids = []
 
 monitor_pattern = r'\b(?:suggest|recommend|give|can you|can someone|what are|can|what|where|beginner|intermediate|advanced|advance|good)(?:\s+\w+)*\s+project('r'?:s)?\b'
