@@ -36,7 +36,7 @@ A Python-based Reddit bot that responds to posts on the r/learnpython subreddit,
 
 ## Documentation
 
- - [PRAW API](https://praw.readthedocs.io/en/stable/)
+ - [PRAW](https://praw.readthedocs.io/en/stable/)
 
 
 ## Environment Variables
