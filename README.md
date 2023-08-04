@@ -1,5 +1,5 @@
 
-![Logo](https://i.ibb.co/Y8RLWzB/pic.png)
+<img src="https://i.ibb.co/Y8RLWzB/pic.pngo" height="300">
 
 
 # Project Suggestion Bot for Reddit
