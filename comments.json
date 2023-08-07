@@ -1,0 +1,50 @@
+{
+  "introduction": "Beep beep boop, I'm a bot. Here are some interesting sources for project ideas which you can implement: ",
+  "beginner_ideas": [
+    {"To-Do List Application": "https://pastebin.com/1AthViT6"},
+    {"Simple Calculator": "https://pastebin.com/KvdDBGEC"},
+    {"Number Guessing Game": "https://pastebin.com/g0ZvVuAq"},
+    {"Dice Rolling Simulator": "https://pastebin.com/zR0BFbtU"},
+    {"Simple Alarm Clock": "https://pastebin.com/urxswjTH"},
+    {"Rock, Paper, Scissors Game": "https://pastebin.com/LD9P74Hc"},
+    {"Basic Weather App": "https://pastebin.com/M8cMKFeM"},
+    {"Guess the Word Game": "https://pastebin.com/ezyMkbWb"},
+    {"Basic Calculator with Functions": "https://pastebin.com/LhgTNLX8"},
+    {"Basic Unit Converter": "https://pastebin.com/y2Z21Kdt"}
+  ],
+  "intermediate_ideas": [
+    {"Personal Budget Tracker": "https://pastebin.com/mBRRFkVF"},
+    {"Note-taking Application": "https://pastebin.com/qMRYXH65"},
+    {"Task Automation with Python Scripting": "https://pastebin.com/qkqwf8Gd"},
+    {"Web Scraper and Data Analyzer": "https://pastebin.com/FF5yxUwj"},
+    {"Online Quiz Application": "https://pastebin.com/YcgUSM8R"},
+    {"Book Catalog System with Database": "https://pastebin.com/jVC4qRaE"},
+    {"Password Manager": "https://pastebin.com/aNfB9BFn"},
+    {"Basic Text-based RPG Game": "https://pastebin.com/Ad9HLpHd"},
+    {"URL Shortener Service": "https://pastebin.com/2tM8Ct4L"},
+    {"Basic Image Editor": "https://pastebin.com/wk7QfFX0"}
+  ],
+  "expert_ideas": [
+    {"Machine Learning-Based Sentiment Analysis": "https://pastebin.com/PPhC4XMk"},
+    {"Stock Price Prediction using Time Series Analysis": "https://pastebin.com/wvLDk0eT"},
+    {"Natural Language Processing Chatbot": "https://pastebin.com/yXg5bZyN"},
+    {"Image Recognition and Object Detection": "https://pastebin.com/Mvr1EARL"},
+    {"Web Application with Flask and Database Integration": "https://pastebin.com/Ud1NnmEc"},
+    {"Autonomous Robot Control using Reinforcement Learning": "https://pastebin.com/GrYPcmSM"},
+    {"Cryptocurrency Trading Bot with Algorithmic Strategies": "https://pastebin.com/1jqHfS4x"},
+    {"Automated Speech Recognition System": "https://pastebin.com/rTqAqUMF"},
+    {"Recommender System using Collaborative Filtering": "https://pastebin.com/eMwmAsHz"},
+    {"Network Traffic Analysis and Anomaly Detection": "https://pastebin.com/8Hceyn3K"}
+  ],
+  "closing": "If you find this helpful, please upvote this comment, Otherwise downvote it.",
+  "upvotes": [
+  {"5": "thank you for the 5 upvotes."},
+  {"10": "omg 10 upvotes! thank you."},
+  {"50": "omggg 50 upvotes!!! i'm feeling proud of myself in 0s and 1s."},
+  {"100": "100 upvotes. okay i can take over humanity now."}
+]
+}
+
+
+
+

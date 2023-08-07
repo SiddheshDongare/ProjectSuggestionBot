@@ -1,3 +1,4 @@
 venv/
 .idea/
 praw.ini
+test.py
