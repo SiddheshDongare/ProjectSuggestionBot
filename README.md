@@ -41,10 +41,10 @@ A Python-based Reddit bot that responds to posts on the r/learnpython subreddit,
 
 ## Environment Variables
 
-To run this project, you will need to edit the praw.ini file and add the following environment variables to it.
+To run this project, you will need to edit the praw.ini file and add the following environment variables to it. Check example.ini for more info.
 
 `client_id` = "Your bot's client id"   
-`client_secret` = "Your bot's's client secret"  
+`client_secret` = "Your bot's client secret"  
 `username` = "Your reddit username"  
 `password` = "Your reddit password"  
 `user_agent` = "Your bot's user agent"

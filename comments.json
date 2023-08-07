@@ -1,0 +1,100 @@
+{
+  "introduction": "Beep beep boop. I'm a bot. Here's a list of projects with their high level pseudocode in order to get you started. Building projects using pseudocode rather than source code enables you to think critically and apply your own understanding of the subject. If you encounter any difficulties, you can lookup the general way of solving your problem and try to build upon it.",
+  "closing": "If you found this comment helpful, please upvote it. Otherwise downvote it.",
+  "beginner_ideas": [
+    {
+      "Basic Unit Converter": "https://pastebin.com/y2Z21Kdt"
+    },
+    {
+      "Basic Calculator with Functions": "https://pastebin.com/LhgTNLX8"
+    },
+    {
+      "Guess the Word Game": "https://pastebin.com/ezyMkbWb"
+    },
+    {
+      "Basic Weather App": "https://pastebin.com/M8cMKFeM"
+    },
+    {
+      "Rock, Paper, Scissors Game": "https://pastebin.com/LD9P74Hc"
+    },
+    {
+      "Simple Alarm Clock": "https://pastebin.com/urxswjTH"
+    },
+    {
+      "Dice Rolling Simulator": "https://pastebin.com/zR0BFbtU"
+    },
+    {
+      "Number Guessing Game": "https://pastebin.com/g0ZvVuAq"
+    },
+    {
+      "Simple Calculator": "https://pastebin.com/KvdDBGEC"
+    },
+    {
+      "To-Do List Application": "https://pastebin.com/1AthViT6"
+    }
+  ],
+  "intermediate_ideas": [
+    {
+      "Basic Image Editor": "https://pastebin.com/wk7QfFX0"
+    },
+    {
+      "URL Shortener Service": "https://pastebin.com/2tM8Ct4L"
+    },
+    {
+      "Basic Text-based RPG Game": "https://pastebin.com/Ad9HLpHd"
+    },
+    {
+      "Password Manager": "https://pastebin.com/aNfB9BFn"
+    },
+    {
+      "Book Catalog System with Database": "https://pastebin.com/jVC4qRaE"
+    },
+    {
+      "Online Quiz Application": "https://pastebin.com/YcgUSM8R"
+    },
+    {
+      "Web Scraper and Data Analyzer": "https://pastebin.com/FF5yxUwj"
+    },
+    {
+      "Task Automation with Python Scripting": "https://pastebin.com/qkqwf8Gd"
+    },
+    {
+      "Note-taking Application": "https://pastebin.com/qMRYXH65"
+    },
+    {
+      "Personal Budget Tracker": "https://pastebin.com/mBRRFkVF"
+    }
+  ],
+  "expert_ideas": [
+    {
+      "Network Traffic Analysis and Anomaly Detection": "https://pastebin.com/8Hceyn3K"
+    },
+    {
+      "Recommender System using Collaborative Filtering": "https://pastebin.com/eMwmAsHz"
+    },
+    {
+      "Automated Speech Recognition System": "https://pastebin.com/rTqAqUMF"
+    },
+    {
+      "Cryptocurrency Trading Bot with Algorithmic Strategies": "https://pastebin.com/1jqHfS4x"
+    },
+    {
+      "Autonomous Robot Control using Reinforcement Learning": "https://pastebin.com/GrYPcmSM"
+    },
+    {
+      "Web Application with Flask and Database Integration": "https://pastebin.com/Ud1NnmEc"
+    },
+    {
+      "Image Recognition and Object Detection": "https://pastebin.com/Mvr1EARL"
+    },
+    {
+      "Natural Language Processing Chatbot": "https://pastebin.com/yXg5bZyN"
+    },
+    {
+      "Stock Price Prediction using Time Series Analysis": "https://pastebin.com/wvLDk0eT"
+    },
+    {
+      "Machine Learning-Based Sentiment Analysis": "https://pastebin.com/PPhC4XMk"
+    }
+  ]
+}
