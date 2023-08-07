@@ -36,7 +36,7 @@ for subreddit_name in subreddits_list:
     subreddit = reddit.subreddit(subreddit_name)
     # check incoming posts while skipping existing posts
     for submission in subreddit.stream.submissions(skip_existing=True):
-        # check if post is not already replied too
+        # check if post is not already replied to
         # and search for regex pattern in post title
         if (submission.id not in post_ids) and (monitor_regex.search(submission.title)):
             # construct the reply string
